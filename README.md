@@ -5,6 +5,7 @@
 ---
 
 - React.js
+- Redux
 - Axios
 - React-router-dom
 - Semantic-ui
